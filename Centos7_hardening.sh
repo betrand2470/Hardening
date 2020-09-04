@@ -7,6 +7,10 @@
 #Licenced under the BSD Licence See LICENCE file for details
 
 
+#Description: Centos 7 Hardening
+#Author: Betrand
+#Date: September 2020
+
 ########################################################################
 
 # Disable mounting of unneeded filesystems CIS 1.1.1 and CIS 3.5
